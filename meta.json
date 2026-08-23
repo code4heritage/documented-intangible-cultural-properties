@@ -1,0 +1,97 @@
+{
+  "schema_version": 1,
+  "dataset": {
+    "repo": "documented-intangible-cultural-properties",
+    "name": "記録作成等の措置を講ずべき無形文化財",
+    "category": {
+      "code": "313",
+      "name": "記録作成等の措置を講ずべき無形文化財"
+    },
+    "kinds": []
+  },
+  "source": {
+    "name": "国指定文化財等データベース",
+    "publisher": "文化庁",
+    "url": "https://kunishitei.bunka.go.jp/",
+    "terms_url": "https://kunishitei.bunka.go.jp/top/policy",
+    "accessed_date": "2026-08-23",
+    "attribution": "出典：「国指定文化財等データベース」（文化庁）\n（https://kunishitei.bunka.go.jp/）（2026年8月23日に利用）\n上記を加工して作成"
+  },
+  "generator": {
+    "name": "heritage-crawler",
+    "version": "0.1.0"
+  },
+  "counts": {
+    "records": 132,
+    "files": 1,
+    "with_coordinates": 0
+  },
+  "labels": {
+    "ledger_id": "台帳ID",
+    "managed_id": "管理対象ID",
+    "category_code": "分類コード",
+    "category_name": "分類",
+    "url": "詳細ページ",
+    "name": "名称",
+    "name_kana": "ふりがな",
+    "types": "種別",
+    "designation_kind": "指定・登録・選定の別",
+    "designated_date": "選択年月日",
+    "description": "解説文",
+    "holders": "保持者・保持団体",
+    "holders.alias": "保持者（関係技芸者）の芸名・雅号等",
+    "holders.alias_kana": "保持者（関係技芸者）の芸名・雅号等 ふりがな",
+    "holders.date": "認定・指名年月日",
+    "holders.name": "団体情報の名称",
+    "holders.name_kana": "団体情報の名称 ふりがな",
+    "holders.representative": "団体情報の代表者氏名",
+    "has_attachment": "添付ファイルの有無",
+    "has_photo": "写真の有無"
+  },
+  "fields": {
+    "ledger_id": 132,
+    "managed_id": 132,
+    "category_code": 132,
+    "category_name": 132,
+    "url": 132,
+    "name": 132,
+    "name_kana": 132,
+    "types": 132,
+    "designation_kind": 132,
+    "designated_date": 132,
+    "description": 128,
+    "holders": 108,
+    "has_attachment": 132,
+    "has_photo": 132
+  },
+  "facets": {
+    "types": {
+      "芸能": 72,
+      "工芸技術": 60,
+      "音楽": 56,
+      "陶芸": 15,
+      "染織": 14,
+      "歌舞伎": 10,
+      "金工": 10,
+      "手漉和紙（てすきわし）": 7,
+      "漆芸": 7,
+      "演芸": 5,
+      "その他": 3,
+      "木竹工": 2,
+      "人形": 1,
+      "截金": 1,
+      "能楽": 1
+    },
+    "designation_kind": {
+      "選択": 132
+    }
+  },
+  "files": [
+    {
+      "path": "data/99_unspecified.jsonl",
+      "area_code": "99",
+      "area_name": "地域を定めない",
+      "records": 132
+    }
+  ]
+}
