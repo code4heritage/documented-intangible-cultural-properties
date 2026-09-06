@@ -41,9 +41,9 @@
     "holders": "保持者・保持団体",
     "holders.alias": "保持者（関係技芸者）の芸名・雅号等",
     "holders.alias_kana": "保持者（関係技芸者）の芸名・雅号等 ふりがな",
-    "holders.date": "認定・指名年月日",
-    "holders.name": "団体情報の名称",
-    "holders.name_kana": "団体情報の名称 ふりがな",
+    "holders.date": "認定・指定年月日",
+    "holders.name": "保持者（関係技芸者）の氏名",
+    "holders.name_kana": "保持者（関係技芸者）の氏名 ふりがな",
     "holders.representative": "団体情報の代表者氏名",
     "has_attachment": "添付ファイルの有無",
     "has_photo": "写真の有無"
